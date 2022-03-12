@@ -1,0 +1,2 @@
+#define DIETSCHEDULER_API __declspec(dllexport)
+#define DIETSCHEDULER_API __declspec(dllimport)

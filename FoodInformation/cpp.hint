@@ -1,0 +1,2 @@
+#define FOODINFORMATION_API __declspec(dllexport)
+#define FOODINFORMATION_API __declspec(dllimport)

@@ -1,0 +1,2 @@
+#define WORKOUTSCHEDULER_API __declspec(dllexport)
+#define WORKOUTSCHEDULER_API __declspec(dllimport)
